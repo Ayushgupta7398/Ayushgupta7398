@@ -1,6 +1,6 @@
 # 💫 About Me:
-# Hi 👋, I'm Ayush Gupta <br> <br>🎓
-B.Tech Computer Science Engineering Student  <br>💻 Passionate about Programming, Problem Solving & Technology  <br>🤖 Hands-on learning in IoT and Embedded systems <br>🚀 Always learning, building and improving my skills  <br>🔍 Love to explore *how things work internally*<br>🎯 Goal: Become a skilled *Software Engineer*<br><br><br>
+# Hi 👋, I'm Ayush Gupta <br> <br>
+🎓B.Tech Computer Science Engineering Student  <br>💻 Passionate about Programming, Problem Solving & Technology  <br>🤖 Hands-on learning in IoT and Embedded systems <br>🚀 Always learning, building and improving my skills  <br>🔍 Love to explore *how things work internally*<br>🎯 Goal: Become a skilled *Software Engineer*<br><br><br>
 
 
 ## 🌐 Socials:
