@@ -35,17 +35,22 @@
   <a href="https://github.com/AyushGupta7398">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGupta7398&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AyushGupta7398's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=AyushGupta7398&theme=radical&hide_border=true&cache_seconds=86400" alt="AyushGupta7398's GitHub Streak" width="49%" />
 </p>
+
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=AyushGupta7398&theme=radical&hide_border=true&cache_seconds=86400" alt="AyushGupta7398's GitHub Streak" width="49%" />
+</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=AyushGupta7398&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Gupta's GitHub Trophies" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGupta7398&theme=radical&radius=10" alt="AyushGupta7398's Activity Graph" />
 </p>
 
 
-## 
+<h3 align="center">🚀 Github Status</h3>
 <p align="center">
   <a href="https://github.com/AyushGupta7398">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGupta7398&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
