@@ -19,14 +19,7 @@
 - 🎯 Goal: Become a skilled Software Engineer
 <!-- Links -->
 ## 🌐 Socials :
-<p>
-  <a href="https://www.linkedin.com/in/ayush-gupta-433633350/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ayush.tech7398">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-433633350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushgupta7398@gmail.com)
 
 ---
 <!-- Tech And Tools I know -->
