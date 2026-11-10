@@ -1,72 +1,173 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ayush%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AyushGupta7398">
-    <img src="https://komarev.com/ghpvc/?username=AyushGupta7398&label=Profile%20views&color=00FFFF&style=flat-square" alt="AyushGupta7398's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
- <!-- About  -->
-##  💫 About Me
-# Hi 👋, I'm Ayush Gupta <br> <br>
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Programming, Problem Solving & Technology
-- 🤖 Hands-on learning in IoT and Embedded systems
-- 🚀 Always learning, building and improving my skills
-- 🔍 Love to explore how things work internally
-- 🎯 Goal: Become a skilled Software Engineer
-<!-- Links -->
-## 🌐 Socials :
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-433633350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushgupta7398@gmail.com)
-
----
-<!-- Tech And Tools I know -->
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-## 📊 GitHub Stats & Trophies
- <!-- Statistics -->
-<p align="center">
-  <a href="https://github.com/AyushGupta7398">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGupta7398&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AyushGupta7398's GitHub Stats" />
-  </a>
-</p>
-<!-- Streak -->
-<h3 align="center">🔥 GitHub Streak Stats</h3>
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=AyushGupta7398&theme=radical&hide_border=true&cache_seconds=86400" alt="AyushGupta7398's GitHub Streak" width="50%" />
-</p>
-<!-- trophy -->
-<h3 align="center"> 🏆 Github Trophies</h3>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AyushGupta7398&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Gupta's GitHub Trophies" />
-</p>
-<!-- graph -->
-<h3 align="center">🚀 Github Contribuation Graph</h3>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGupta7398&theme=radical&radius=10" alt="AyushGupta7398's Activity Graph" />
-</p>
-
-<h3 align="center"> 🔥Github Status</h3>
-<p align="center">
-  <a href="https://github.com/AyushGupta7398">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGupta7398&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /> 
-  </a>
-</p> 
-
----
- <!-- snake  -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<br>
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0FA46F&text=Ayush%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=55&descSize=18" width="100%" />
+
+<h3>
+  Building technology. Solving problems. Learning every day.
+</h3>
+
+<p>
+  <a href="https://github.com/AyushGupta7398">
+    <img src="https://komarev.com/ghpvc/?username=AyushGupta7398&label=Profile%20Views&color=0FA46F&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0FA46F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-AI%20%7C%20ML%20%7C%20IoT-0A3B2C?style=flat-square" />
+</p>
+
 </div>
 
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+Hi! I'm **Ayush Gupta**, a 3rd-year B.Tech Computer Science Engineering student passionate about building practical and impactful technology.
+
+I enjoy exploring how things work internally, solving programming problems, and turning ideas into real-world projects.
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Interested in Software Engineering and Problem Solving
+- 🤖 Learning Machine Learning and AI
+- 🌐 Developing web applications with React and JavaScript
+- 🔌 Exploring IoT and Embedded Systems
+- 🚀 Working on collaborative projects and real-world solutions
+- 🎯 Goal: Become a skilled Software Engineer
+
+> I believe in learning by building, improving through challenges, and creating technology that makes a difference.
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🌱 What I'm Currently Working On
+
+| Area | Focus |
+|---|---|
+| 🤖 Machine Learning | Learning ML concepts and building prediction models |
+| 🌐 Web Development | React, JavaScript, UI/UX and API integration |
+| 🚚 Smart Logistics | SIH 2026 NER Logistics Intelligence Platform |
+| 🏠 IoT | SmartNest — Smart Home Automation & Energy Monitoring |
+| 🧠 Problem Solving | Data Structures and Algorithms |
+
+---
+
+
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 💻 Tech Stack & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### IoT & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+ <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushGupta7398&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+</div>
+
+<div align = "center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushGupta7398&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=AyushGupta7398&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGupta7398&bg_color=0d1117&color=0FA46F&line=0FA46F&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with people who enjoy building technology.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-gupta-433633350/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ayush.tech7398@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/AyushGupta7398">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep growing.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0FA46F&height=100&section=footer" width="100%" />
+
+</div>
