@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "48b020e77e1d55dcb6b3c53af34c9d4d81b90ac9cd3a19e2d7224a44ceb3db96",
+  "snapshotId": "07a0d1a1d25fab53060d866fbbf4ae69d50233bc08eb1072c17f58ae0da798e0",
   "publicDataPolicy": "daily-aggregates-only-v1",
-  "generatedAt": "2026-11-19T02:31:06.219Z",
+  "generatedAt": "2026-11-20T02:16:17.407Z",
   "source": "github",
   "username": "Ayushgupta7398",
   "sourceCommit": "c5bf26383d6388d35d42c7e37da1b6af900f6f2f",
-  "workflowRun": "44444881549",
+  "workflowRun": "44659541539",
   "calendarDays": 365,
-  "rangeStart": "2025-11-20",
-  "rangeEnd": "2026-11-19",
+  "rangeStart": "2025-11-21",
+  "rangeEnd": "2026-11-20",
   "currentDayPartial": true,
   "ranges": {
     "30": {
       "total": 9,
-      "startDate": "2026-10-21",
-      "endDate": "2026-11-19"
+      "startDate": "2026-10-22",
+      "endDate": "2026-11-20"
     },
     "90": {
       "total": 58,
-      "startDate": "2026-08-22",
-      "endDate": "2026-11-19"
+      "startDate": "2026-08-23",
+      "endDate": "2026-11-20"
     },
     "365": {
       "total": 120,
-      "startDate": "2025-11-20",
-      "endDate": "2026-11-19"
+      "startDate": "2025-11-21",
+      "endDate": "2026-11-20"
     }
   },
   "assets": {
     "index.html": {
-      "bytes": 41692,
-      "sha256": "151a15c5b182ccf4b1ec40b18f90583773850380e4578c836fea971ea82dbb0a"
+      "bytes": 41694,
+      "sha256": "ac6f6b5394201d6725da9c1f7328dc93a6fc10b29bd29126bca7a171e18c0355"
     },
     "activity-30d.svg": {
       "bytes": 4781,
-      "sha256": "17b929ff19790900995661f4659b64decfa18b96ceb8d5b4e40e5d6063d0b785"
+      "sha256": "e2e88d0de7790c4561c8a76f959168b2dfd7943734eddcc82d291d7a51990014"
     },
     "activity-90d.svg": {
       "bytes": 9014,
-      "sha256": "8e0e613d289cd326e3f8976b0386e08d318e2780b95bb3f7326a8cc825ce2b0b"
+      "sha256": "a884d0caa3fd959a25744e249152af456a950d385216c0a261c4f6c3751bdd77"
     },
     "activity-365d.svg": {
       "bytes": 23689,
-      "sha256": "f00973275eb8747530ab417ff01618339b7a67813e4920143fa13027aadf0431"
+      "sha256": "26bcd69046469c14b665508ccfabce92835f13c20af4fa9d7f58cfb2e5147d6b"
     }
   }
 }
