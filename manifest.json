@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "1092ae675eecbc5bbc3ebffd15be6278be60d78283b1d49a531d47b34296d5b9",
+  "snapshotId": "105a7af1b86b4bc935ea219a028bf5c5d160872f22b3df629fb6f64f9c1a5280",
   "publicDataPolicy": "daily-aggregates-only-v1",
-  "generatedAt": "2026-11-23T01:36:24.635Z",
+  "generatedAt": "2026-11-24T02:09:08.640Z",
   "source": "github",
   "username": "Ayushgupta7398",
   "sourceCommit": "c5bf26383d6388d35d42c7e37da1b6af900f6f2f",
-  "workflowRun": "45095491095",
+  "workflowRun": "45310248068",
   "calendarDays": 365,
-  "rangeStart": "2025-11-24",
-  "rangeEnd": "2026-11-23",
+  "rangeStart": "2025-11-25",
+  "rangeEnd": "2026-11-24",
   "currentDayPartial": true,
   "ranges": {
     "30": {
       "total": 9,
-      "startDate": "2026-10-25",
-      "endDate": "2026-11-23"
+      "startDate": "2026-10-26",
+      "endDate": "2026-11-24"
     },
     "90": {
       "total": 55,
-      "startDate": "2026-08-26",
-      "endDate": "2026-11-23"
+      "startDate": "2026-08-27",
+      "endDate": "2026-11-24"
     },
     "365": {
       "total": 120,
-      "startDate": "2025-11-24",
-      "endDate": "2026-11-23"
+      "startDate": "2025-11-25",
+      "endDate": "2026-11-24"
     }
   },
   "assets": {
     "index.html": {
-      "bytes": 41700,
-      "sha256": "7bd11fdf15fdbdb3b5dc1e80eedc000b8d7612bf1126af8e8a55f0584686cb6c"
+      "bytes": 41702,
+      "sha256": "4cc03493655504d8b5bf96f2f1d420429a95416ba0eb961e109846f006ea7773"
     },
     "activity-30d.svg": {
       "bytes": 4781,
-      "sha256": "cab289557ab6feedecb3e8c6b3c0bc782ed4d77d1eb6bdb48dc7b355d430b3ca"
+      "sha256": "e03eddfdb66475bb1cc8392ed0962030d15f76fa65839477def553a17748f64b"
     },
     "activity-90d.svg": {
-      "bytes": 8896,
-      "sha256": "4cb7b6682a57974f4b11d536792168595ed6c4d7041f11c78d76857ea9e21638"
+      "bytes": 8895,
+      "sha256": "bb6e15430dfa23f70373fc15bfc32a02d9d81dd9ba7f88b291cd6bcd9ad969fc"
     },
     "activity-365d.svg": {
       "bytes": 23691,
-      "sha256": "770c131611cb1ebff27ba03e63b9bec813f11affa66a07f5d0ad5c6b907666b8"
+      "sha256": "d719e445ca87ca82a0f4abbc93900b22fcf167bbcea3785b9eb0fbe9c83877fe"
     }
   }
 }
